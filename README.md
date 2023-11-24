@@ -6,4 +6,4 @@
 
 https://vue-page-stack-example.vercel.app
 
-![](https://raw.githubusercontent.com/hezhongfeng/hezhongfeng/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/hezhongfeng/hezhongfeng/output/github-snake.svg)
