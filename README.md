@@ -1,8 +1,8 @@
 ### GitHub status
 
-![](https://github-readme-stats.vercel.app/api?username=hezhongfeng&show_icons=true&hide_title=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hezhongfeng&show_icons=true&hide_title=true&theme=default&line_height=24)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezhongfeng&layout=compact&show_icons=truee&include_all_commits=true&card_width=360" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hezhongfeng&layout=compact&show_icons=true&include_all_commits=true&card_width=360)
 
 ### Hello 👏
 
